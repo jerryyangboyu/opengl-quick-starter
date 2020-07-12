@@ -15,12 +15,12 @@ A quick starter template for OpenGL using existing library
 ## File Structure
 ```
 Opengl_starter
-    - Linking (Dependencies Foder)
+    - Linking (Dependencies Folder)
         - GLEW
         - GLFW
         - GLM
         - SOIL2
-    - Opengl_starter (Project Foder)
+    - Opengl_starter (Project Folder)
         - header
             - libs.h (Imported Libraries)
             - common.h (Common Settings For Project)
